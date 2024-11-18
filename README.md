@@ -1,4 +1,4 @@
-# **Hello! I'm Ibrahim Abdelbasser 🌻**
+# **Hello! I'm Ibrahim Abdel Basir Gomaa 🌻**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Science+Student;Aspiring+Data+Scientist;Passionate+Learner+and+Problem-Solver)](https://git.io/typing-svg)
 

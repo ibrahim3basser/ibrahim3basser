@@ -1,6 +1,6 @@
-# **Hello! I'm Ibrahim Abdel Basir Gomaa 🌻**
+# **Hello! I'm Ibrahim Abdelbasser 🌻**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Science+Student;Aspiring+Data+Scientist;Passionate+Learner+and+Problem-Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=abcdef&background=00000000&width=500&height=120&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Computer+Science+Graduate;Aspiring+Data+Scientist;Passionate+Learner+and+Problem-Solver)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://www.funimada.com/assets/images/cards/big/hello-1.gif" alt="Hello Animation" width="300" />
@@ -13,9 +13,10 @@
   <img src="https://w0.peakpx.com/wallpaper/872/549/HD-wallpaper-lance-concept-night-work-home-woker-working-at-night-programmer.jpg" alt="Coding" width="700" />
 </div>
 
-- 🎓 Currently studying **Computer Science** at **Beni-Suef University**.
-- 🌱 Actively learning **Data Science** and exploring the world of **Machine Learning**.
+- 🎓 Graduated with a **Bachelor's Degree in Computer Science** from **Beni-Suef University**.
+- 🌱 Actively pursuing advanced knowledge in **Data Science** and **Machine Learning**.
 - 💻 Check out my projects on [GitHub](https://github.com/ibrahim3basser).
+- 📊 Explore my datasets and notebooks on [Kaggle](https://www.kaggle.com/ibrahimabdelbasser).
 - 📫 Reach me via email: **ibrahimelabassery2002@gmail.com**.
 - ⚡ Passionate about solving real-world problems through data-driven solutions.
 
@@ -39,11 +40,15 @@ A highly motivated and adaptable professional, thriving under pressure with exce
   <a href="https://twitter.com/ibrahim212200" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
+  <a href="https://www.kaggle.com/ibrahimabdelbasser" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ## **🛠️ Skills & Tools**
+### **Programming Languages**
 <p align="left">
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40" /> 
@@ -51,23 +56,49 @@ A highly motivated and adaptable professional, thriving under pressure with exce
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
-  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
-    <img src="https://s4.aconvert.com/convert/p3r68-cdx67/affkv-tkh5t.svg" alt="Anaconda" width="40" height="40" />
-  </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
+</p>
+
+### **Data Science & Machine Learning**
+<p align="left">
+  <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
+    <img src="https://s4.aconvert.com/convert/p3r68-cdx67/affkv-tkh5t.svg" alt="Anaconda" width="40" height="40" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
+  </a>
+</p>
+
+### **Tools & Platforms**
+<p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
 </p>
 

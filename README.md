@@ -3,7 +3,7 @@
 <img align="center" alt="Coding" width="300" src="https://www.funimada.com/assets/images/cards/big/hello-1.gif">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist" />
 </a>
 
 ---
